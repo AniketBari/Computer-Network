@@ -14,7 +14,6 @@ Original: Hello World
 Encrypted: Hore llWdlo_
 Decrypted: Hello World_
 ```
-3. ~Railfence Cipher~
 4. Generate Frames
 ```
 Message: 1111111111100
